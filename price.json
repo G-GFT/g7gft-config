@@ -1,8 +1,8 @@
 {
-  "internal_price": 0.0375,
+  "internal_price": 0.0379,
   "currency": "USD",
   "symbol": "G7GFT",
-  "updated_at": "2026-06-17",
+  "updated_at": "2026-06-20",
   "updated_by": "owner",
   "note": "Internal trading price - managed by admin panel"
 }
